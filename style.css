@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+#sum_button{
+    cursor: pointer;
+}
+#sum_button_minus{
+    cursor: pointer;
+}
