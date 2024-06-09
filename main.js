@@ -17,3 +17,8 @@ document.getElementById('mult_button').addEventListener('click' , ()=>{
     var b = document.getElementById('second_element').value;
     document.getElementById("result").innerText=parseInt(a)*parseInt(b)
 })
+document.getElementById('division_button').addEventListener('click' , ()=>{
+    var a = document.getElementById('first_element').value;
+    var b = document.getElementById('second_element').value;
+    document.getElementById("result").innerText=parseInt(a)/parseInt(b)
+})

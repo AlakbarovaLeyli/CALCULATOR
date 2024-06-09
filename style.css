@@ -3,7 +3,40 @@ body{
 }
 #sum_button{
     cursor: pointer;
+    font-size: 50px;
 }
 #sum_button_minus{
     cursor: pointer;
+    font-size: 50px;
+}
+#mult_button{
+    cursor: pointer;
+    font-size: 50px;
+    
+}
+#division_button{
+    cursor: pointer;
+    font-size: 50px;
+}
+#first_element{
+    width: 300px;
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+#second_element{
+    width: 300px;
+    font-size: 50px;
+}
+.head{
+    font-size: 60px;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+#result{
+    font-size: 50px;
+    margin-left: 150px;
+    border: 1px solid black;
+   
 }
